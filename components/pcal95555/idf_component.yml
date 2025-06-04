@@ -1,0 +1,7 @@
+version: "0.1.0"
+description: PCAL95555 GPIO expander component
+url: https://github.com/N3b3x/HF-PCAL95555
+targets:
+  - esp32c6
+dependencies:
+  idf: "*"
